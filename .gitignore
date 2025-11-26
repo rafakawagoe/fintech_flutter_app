@@ -44,3 +44,10 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Local configuration
+build_log.txt
+coverage/
+*.env
+.env
+
